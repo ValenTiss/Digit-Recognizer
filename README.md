@@ -1,4 +1,4 @@
-# Digit-Recognizer
+# Digit-Recognizer || 94% Accuracy 
 
 AI-Based Digit Recognizer (No ML Libraries)
 
